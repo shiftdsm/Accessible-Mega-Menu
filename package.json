@@ -1,6 +1,6 @@
 {
   "name": "accessible-mega-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of Adobe's Accessible Mega Menu from Shift Interactive",
   "main": "js/jquery-accessibleMegaMenu.js",
   "scripts": {
